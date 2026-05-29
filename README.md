@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulthangaraju9-jpg" alt="gokulthangaraju9-jpg" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [gokulportfolio-chi.vercel.app](gokulportfolio-chi.vercel.app)
+- 👨‍💻 All of my projects are available at [https://gokulportfolio-chi.vercel.app/](https://gokulportfolio-chi.vercel.app/)
 
 - 💬About Me **I am looking for a position in a company where I will be given the opportunity to apply innovative ideas and be mentored for a successful career.**
 <h3 align="left">Connect with me:</h3>
